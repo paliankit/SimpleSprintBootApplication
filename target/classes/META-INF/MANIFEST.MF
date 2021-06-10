@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ankit
+Build-Jdk: 15.0.2
+Implementation-Title: sampleapi
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.abcd
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/sampleapi/
+Created-By: Maven Integration for Eclipse
+
